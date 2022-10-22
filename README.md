@@ -27,7 +27,7 @@ Streamlit
 ## Results
 Streamlit Pychain Ledger
 
-![](Screenshots\Record_block_Hash_on_Streamlit.gif)
+![](Screenshots/Record_block_Hash_on_Streamlit.gif)
 
 
 ## Contributors
